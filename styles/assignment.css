@@ -38,6 +38,12 @@ nav li{
     border-radius: 10px;
     padding: 12px 36px 12px 36px;
 }
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #52da9f; 
+    transform: translateY(-2px) scale(1.04); 
+  
+}
 .text-align{
     text-align: center;
 }
@@ -134,7 +140,7 @@ nav li{
 
 /* SECTION RELATED  */
 .review{
-    margin-top: 60px;
+    margin-top: 40px;
     padding: 50px 0 60px 0;
     
 }
@@ -218,7 +224,7 @@ nav li{
     box-sizing: border-box;
     padding: 0 40px;
     margin-top: 60px;
-    margin-bottom: 40px;
+    margin-bottom: 70px;
 }
 .contact-heading{
     display: flex;

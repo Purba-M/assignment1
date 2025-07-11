@@ -215,6 +215,35 @@ nav li{
   font-size: 0.8em;
 }
 
+/* FOCUS SECTION */
+.focus-section{
+   background: #fff ;
+  padding: 60px 15px;
+  border-radius: 14px;
+  margin-top: 50px;
+  width: 1140px;
+}
+.focus-content h1{
+  font-size:50px ;
+  font-weight: bold;
+  font-family: 'Raleway',sans-serif;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.focus-content p{
+  font-size: 20px;
+  font-weight:300px ;
+  color:#757575 ;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.image-container{
+  margin-top: 30px;
+}
+.image-container img{
+  border-radius: 50px;
+}
+
 /* Contact form */
 .contact-section{
     display: flex;

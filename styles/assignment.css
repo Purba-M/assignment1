@@ -299,6 +299,7 @@ nav li{
 /* Footer */
 .footer-section {
   background: #fff;
+  width: 100%;
   padding: 90px 80px 35px 10px;
   text-align: center;
   margin: 40px auto 0 auto;

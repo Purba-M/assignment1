@@ -222,6 +222,7 @@ nav li{
   border-radius: 14px;
   margin-top: 50px;
   width: 1140px;
+  margin-bottom: 80px;
 }
 .focus-content h1{
   font-size:50px ;
@@ -252,7 +253,7 @@ nav li{
     gap: 60px;
     box-sizing: border-box;
     padding: 0 40px;
-    margin-top: 60px;
+    margin-top: 90px;
     margin-bottom: 70px;
 }
 .contact-heading{
